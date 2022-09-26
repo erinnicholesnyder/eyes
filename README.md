@@ -2,7 +2,7 @@
 
 #### Description
 
-This is a project for the MIT xPRO Professional Certificate in Coding, two eyes are styled and animated to follow the cursor as it moves across the screen
+This is a project for the MIT xPRO Professional Certificate in Coding, where given a starter code, two eyes are styled and animated to follow the cursor as it moves across the screen
 
 
 
