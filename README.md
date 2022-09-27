@@ -6,9 +6,14 @@ This is a project for the MIT xPRO Professional Certificate in Coding, where giv
 
 
 
-#### Usage
+#### How to Run
 
-This project demonstrates the use of functions, arrays and loops to call and move images in a browser to create an animation
+Once you navigate to the page, the eyes should follow the cursor as you move the mouse
+
+
+#### Roadmap of Future Improvements
+
+Work on more complex designs for the eye animation; animate moving objects that are not anchored in place but follow the cursor; improve the styles
 
 #### License information
 
